@@ -29,3 +29,11 @@ Generate legal clauses from a SharePoint clause library and insert them into con
 - Clause approval workflow
 - Dataverse integration
 - Adaptive Card notifications
+
+## Screenshots
+
+### Word Add-in
+![Add-in UI](docs/word-addin-ui.png)
+
+### Placeholder Replacement
+![Placeholder Demo](docs/clause-placeholder-demo.png)
