@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+clause-api/node_modules/
+
+# Secrets
+.env
+clause-api/.env
+
+# Build output
+dist/
+lib/
+
+# Logs
+*.log
+
+# Editor / OS
+.vscode/settings.json
+.DS_Store
